@@ -1,1 +1,2 @@
-# hackathon-form
+Hachathon Form
+This project is a web application that provides an event registration form using HTML and Bootstrap for styling. The first page features two cards that describe an event, with a button that navigates to the registration form when clicked. The form page allows users to register for the event by entering their details. Please note that the application is not responsive, so it may not display correctly on all devices. To use the application, simply open the index.html file in your web browser.
